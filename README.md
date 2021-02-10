@@ -4,40 +4,40 @@ Starter for a kata exercise based on Rock Paper Scissors within the context of c
 
 ## Use cases
 
-Given the player submits rock
-When the opponent submits rock
+Given the player submits rock\
+When the opponent submits rock\
 Then the result is a tie game
 
 Given the player submits rock
-When the opponent submits paper
+When the opponent submits paper\
 Then the result is a loss for the player
 
-Given the player submits rock
-When the opponent submits scissors
+Given the player submits rock\
+When the opponent submits scissors\
 Then the result is a win for the player
 
-Given the player submits paper
-When the opponent submits rock
+Given the player submits paper\
+When the opponent submits rock\
 Then the result is a win for the player
 
-Given the player submits paper
-When the opponent submits paper
+Given the player submits paper\
+When the opponent submits paper\
 Then the result is a tie game
 
-Given the player submits paper
-When the opponent submits scissors
+Given the player submits paper\
+When the opponent submits scissors\
 Then the result is a loss for the player
 
-Given the player submits scissors
-When the opponent submits rock
+Given the player submits scissors\
+When the opponent submits rock\
 Then the result is a loss for the player
 
-Given the player submits scissors
-When the opponent submits paper
+Given the player submits scissors\
+When the opponent submits paper\
 Then the result is a win for the player
 
-Given the player submits scissors
-When the opponent submits scissors
+Given the player submits scissors\
+When the opponent submits scissors\
 Then the result is a tie game
 
 ## System Design
