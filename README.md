@@ -43,3 +43,5 @@ Then the result is a tie game
 ## System Design
 
 Try building the use cases into an azure function http trigger or api endpoint that takes a player's move as input and produces the game's state as an output. The game's state should be represented with the player's move, the opponent's move, and the result of the round.
+
+What patterns or refactoring can be applied?
